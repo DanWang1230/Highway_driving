@@ -9,7 +9,7 @@ The goal is to design a path planner that is able to create smooth, safe paths f
 ---
 ### Code model for generating paths
 
-The Project Q&A is really helpful. Based on that lecture, I created the path planner. And the planner works and generates no incidients for more than 4.32 miles, as shown in the following image. A video showing the performance of the path planner is uploaded [here](https://youtu.be/1Nu3SbrVvoc).
+The Project Q&A is really helpful. Based on that lecture, I created the path planner. And the planner works and generates no incidients for more than 4.32 miles, as shown in the following image. A video showing the performance of the path planner is uploaded [here](https://youtu.be/6kglUzTQvSc).
 
 ![alt text][image1]
 
